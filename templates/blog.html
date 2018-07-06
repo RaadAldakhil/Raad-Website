@@ -1,0 +1,9 @@
+{% extends "base.html" %}
+{% block content %}
+{{ page.html|safe }}
+{% for blogpage in blog %}
+  <h2>{{ blogpage.title }}</h2>
+  {{ blogpage.html|safe }}
+  <p>Date: {{ blogpage.date }} | <a href="{{ url_for("post", name=blogpage.name) }}">Direct Link</a></p>
+{% endfor %}
+{% endblock %}
