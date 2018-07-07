@@ -1,6 +1,6 @@
 body {
     font-family: monospace;
-    background-color: #eee8d5;
+    background-color: #6c71c4;
 }
 
 /* Title */
@@ -51,7 +51,7 @@ body {
 
 .content p {
     font-size: 13pt;
-    color: #586e75;
+    color: #eee8d5;
 }
 
 .content a {
