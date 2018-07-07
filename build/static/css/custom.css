@@ -46,12 +46,12 @@ body {
 
 /* Content */
 .content {
-  text-align: center;
+  text-align: left;
 }
 
 .content p {
     font-size: 13pt;
-    color: #ffffff;
+    color: #586e75;
 }
 
 .content a {
@@ -65,7 +65,7 @@ body {
 
 .content li {
     font-size: 13pt;
-    color: #ffffff;
+    color: #657b83;
 }
 
 /* Footer */
