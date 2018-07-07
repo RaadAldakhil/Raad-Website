@@ -1,6 +1,6 @@
 body {
     font-family: monospace;
-    background-color: #073642;
+    background-color: #eee8d5;
 }
 
 /* Title */
@@ -45,6 +45,9 @@ body {
 }
 
 /* Content */
+.content {
+  text-align: center;
+}
 
 .content p {
     font-size: 13pt;

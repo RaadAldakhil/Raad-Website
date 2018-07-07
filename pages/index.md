@@ -2,50 +2,42 @@ template: index.html
 
 ## $ Who am I?
 
-Wireless Software Engineer at Intel
+IT System Analyst at Saudi Aramco
 
 Computer Science Student at the University of Manchester
 
-CS Second Year Peer Support Coordinator at the University of Manchester
-
-GreatUniHack 2018 organiser
-
 ## $ Who was I?
 
-StudentHack VI organiser
+Storage System Engineer at Saudi Aramco
 
-StudentHack V organiser
+StudentHack IV PR Manager
 
-GreatUniHack 2016 organiser
-
-Digital Design Engineer at the University of Manchester
+Student at Saudi Aramco's College Preparatory Center
 
 ## $ What do I know?
 
-Areas of interest: Software Engineering, Mobile and Wireless Systems, Computer Architecture, Computer Networks and Digital Design
+Areas of interest: Software Engineering, Game Development, Education, Android Development
 
-Programming languages: C++, C, Python, Java, Bash, ARM and x64 Assembly, Haskell, Matlab
+Programming languages: C++, C, Python, Java, Bash, ARM and x64 Assembly, LaTex, Matlab
 
-Known technologies: Verilog, Cadence, Git, Android, Continuous Integration - Jenkins, AVX2/512
+Known technologies: Verilog, Cadence, Git, Android, Continuous Integration - Jenkins, Microsoft Office
 
 Operating systems: Linux, Windows
 
 ## $ What do I do in the free time?
 
-Go to hackathons - [my projects](https://devpost.com/Ifor)
+Go to hackathons - [my projects](https://devpost.com/Seldom)
 
-Contribute to Open Source projects - [GitHub](https://github.com/IgWod)
-
-Learn हिन्दी  - Hindi
+Practice Game Development - [GitHub](https://github.com/RaadAldakhil)
 
 ## $ Want to know more?
 
-Check my LinkedIn profile [here](https://www.linkedin.com/in/wodiany/)
+Check my LinkedIn profile [here](https://www.linkedin.com/in/RaadAldakhil/)
 
-Or visit my GitHub profile [here](https://github.com/IgWod)
+Or visit my GitHub profile [here](https://github.com/RaadAldakhil)
 
 ## $ Finally, how did I build this website?
 
-I used Python and Flask to generate this page, and I host it on GitHub [here](https://github.com/IgWod/IgWod.github.io)
+I used Python and Flask to generate this page, and I host it on GitHub
 
 This page also uses awesome Solarized colour scheme from [here](http://ethanschoonover.com/solarized)
