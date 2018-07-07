@@ -11,12 +11,12 @@ body {
 
 .title h1 {
     font-size: 32pt;
-    color: #859900;
+    color: #c4976c;
 }
 
 .title h2 {
     font-size: 22pt;
-    color: #b58900;
+    color: #c4c36c;
 }
 
 /* Main */
@@ -33,7 +33,7 @@ body {
 
 .menu h1 {
     font-size: 22pt;
-    color: #b58900;
+    color: #c4c36c;
 }
 
 .menu ul {
@@ -55,12 +55,12 @@ body {
 }
 
 .content a {
-    color: #268bd2;
+    color: #c16cc4;
 }
 
 .content h2 {
     font-size: 22pt;
-    color: #b58900;
+    color: #c4c36c;
 }
 
 .content li {
