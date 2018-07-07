@@ -1,6 +1,6 @@
 # Personal website
 
-This repository is used to generate and host my personal website: www.wodiany.me
+This repository is used to generate and host my personal website: www.raad.it
 
 ## Technical details
 
