@@ -31,6 +31,10 @@ body {
     text-align: right;
 }
 
+.menu a {
+    color: #c16cc4;
+}
+
 .menu h1 {
     font-size: 22pt;
     color: #c4c36c;
