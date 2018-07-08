@@ -32,7 +32,7 @@ body {
 }
 
 .menu a {
-    color: #c16cc4;
+    color: #71c46c;
 }
 
 .menu h1 {
@@ -59,7 +59,7 @@ body {
 }
 
 .content a {
-    color: #c16cc4;
+    color: #71c46c;
 }
 
 .content h2 {
@@ -69,7 +69,7 @@ body {
 
 .content li {
     font-size: 13pt;
-    color: #657b83;
+    color: #c06cc4;
 }
 
 /* Footer */
