@@ -66,6 +66,12 @@ body {
     font-size: 22pt;
     color: #c4c36c;
 }
+.content h3 {
+    color: #c46c6f;
+}
+.content h5 {
+    color: #c4c36c;
+}
 
 .content li {
     font-size: 13pt;
