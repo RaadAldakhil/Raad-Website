@@ -6,23 +6,23 @@ body {
 /* Title */
 
 .title {
-    padding-top: 25px;
+    padding-top: 6.5vw;
 }
 
 .title h1 {
-    font-size: 32pt;
+    font-size: 8vw;
     color: #c4976c;
 }
 
 .title h2 {
-    font-size: 22pt;
+    font-size: 7vw;
     color: #c4c36c;
 }
 
 /* Main */
 
 .main {
-    padding-top: 25px;
+    padding-top: 6.5vw;
 }
 
 /* Menu */
@@ -36,7 +36,7 @@ body {
 }
 
 .menu h1 {
-    font-size: 22pt;
+    font-size: 5vw;
     color: #c4c36c;
 }
 
@@ -45,7 +45,7 @@ body {
 }
 
 .menu li {
-    font-size: 20pt;
+    font-size: 1.8vw;
 }
 
 /* Content */
@@ -54,7 +54,7 @@ body {
 }
 
 .content p {
-    font-size: 13pt;
+    font-size: 2vw;
     color: #eee8d5;
 }
 
@@ -63,28 +63,27 @@ body {
 }
 
 .content h2 {
-    font-size: 22pt;
+    font-size: 5vw;
     color: #c4c36c;
 }
 .content h3 {
+    font-size: 4vw;
     color: #c4816c;
 }
 .content h5 {
+    font-size: 3vw;
     color: #aba93c;
 }
 
 .content li {
-    font-size: 13pt;
+    font-size: 2vw;
     color: #c06cc4;
 }
 
 /* Footer */
 
 .footer {
-    padding-top: 25px;
+    padding-top: 6.5vw;
+    padding-bottom: 6.5vw;
     text-align: center;
-}
-
-.footer emp {
-    color: #ffffff;
 }
