@@ -25,7 +25,7 @@ body {
 }
 
 .content p {
-    font-size: 2.5vw;
+    font-size: 3vw;
     color: #eee8d5;
 }
 
@@ -37,9 +37,12 @@ body {
     font-size: 5vw;
     color: #c4c36c;
 }
+.content h3 {
+    font-size: 3.5vw;
+    color: #c4816c;
 }
 .content h5 {
-    font-size: 3vw;
+    font-size: 3.5vw;
     color: #aba93c;
 }
 
