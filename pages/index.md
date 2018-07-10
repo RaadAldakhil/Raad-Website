@@ -4,7 +4,7 @@ template: index.html
 
 IT System Analyst at Saudi Aramco
 
-Computer Systems Engineering Student at the University of Manchester
+MEng Software Engineering Student at the University of Manchester
 
 ## $ Who was I?
 
