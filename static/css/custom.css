@@ -6,11 +6,11 @@ body {
 /* Title */
 
 .title {
-    padding-top: 6.5vw;
+    padding-top: 6.5em;
 }
 
 .title h1 {
-    font-size: 6vw;
+    font-size: 6em;
     color: #c4976c;
 }
 
@@ -25,7 +25,7 @@ body {
 }
 
 .content p {
-    font-size: 3vw;
+    font-size: 3em;
     color: #eee8d5;
 }
 
@@ -34,27 +34,27 @@ body {
 }
 
 .content h2 {
-    font-size: 5vw;
+    font-size: 5em;
     color: #c4c36c;
 }
 .content h3 {
-    font-size: 3.5vw;
+    font-size: 3.5em;
     color: #c4816c;
 }
 .content h5 {
-    font-size: 3.5vw;
+    font-size: 3.5em;
     color: #aba93c;
 }
 
 .content li {
-    font-size: 2vw;
+    font-size: 2em;
     color: #c06cc4;
 }
 
 /* Footer */
 
 .footer {
-    padding-top: 6.5vw;
-    padding-bottom: 6.5vw;
+    padding-top: 6.5em;
+    padding-bottom: 6.5em;
     text-align: center;
 }
