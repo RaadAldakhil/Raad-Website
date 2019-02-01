@@ -13,7 +13,7 @@ gulp.task('webserver', function() {
       });
   });
    
-gulp.task('default', ['webserver']);
+gulp.task('default', ['webserver','scripts','styles']);
 
 gulp.task('scripts', function() {
     return gulp.src('js/scripts.js')
