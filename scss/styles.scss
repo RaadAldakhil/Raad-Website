@@ -34,19 +34,19 @@
 */
 
 // Define base and accent colors
-$base-color: #93a1a1;
+$base-color: #3498db;
 $base-color-hover: darken($base-color, 10%);
 
 // Define background colors
-$background: #002b36;
-$background-alt: #073642;
+$background: #fff;
+$background-alt: #f2f2f5;
 
 // Define border colors
-$border: #657b83;
+$border: #dcd9d9;
 
 // Define text colors
-$heading: #586e75;
-$text: #839496;
+$heading: #374054;
+$text: #74808a;
 
 /*
     ---------------------
@@ -115,7 +115,7 @@ body {
             h4 {
                 font-size: 1.2em;
                 font-weight: 300;
-                color: #7e8890;
+                color: $heading;
                 margin: 0 0 15px 0;
             }
 
@@ -525,7 +525,7 @@ footer {
     h4 {
         font-size: 1.2em;
         font-weight: 300;
-        color: #7e8890;
+        color: $heading;
         margin: 0 0 15px 0;
     }
 
