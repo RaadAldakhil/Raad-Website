@@ -52,7 +52,7 @@ function scripts() {
 //         .pipe(wait(250))
 //         .pipe(sass({outputStyle: 'compressed'}).on('error', sass.logError))
 //         .pipe(gulp.dest('./css'));
-});
+// });
 function styles() {
     return gulp.src('./scss/styles.scss')
         .pipe(wait(250))
