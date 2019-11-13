@@ -289,8 +289,6 @@ footer {
         cursor: pointer;
         display: block;
         margin: 15px auto 0 auto;
-        width: 35px;
-        height: 35px;
         border-radius: 50%;
         border: 3px solid lighten($text, 25%);
         text-align:center;
@@ -386,8 +384,6 @@ footer {
 #lead {
     position: relative;
     height: 100vh;
-    min-height: 500px;
-    max-height: 1080px;
     // background: url(../images/lead-bg.jpg);
     background-image: linear-gradient(to bottom right, #E3F0CB, #C7CEEA);
     background-size: cover;
@@ -426,8 +422,6 @@ footer {
 
 #lead-overlay {
     position: absolute;
-    height: 100%;
-    width: 100%;
     top: 0;
     right: 0;
     bottom: 0;
@@ -450,8 +444,6 @@ footer {
         cursor: pointer;
         display: block;
         margin: 0 auto;
-        width: 35px;
-        height: 35px;
         border-radius: 50%;
         border: 3px solid lighten($base-color, 25%);
         text-align:center;
@@ -839,7 +831,6 @@ footer {
     }
 
     textarea {
-        height: 150px;
         resize: none;
     }
 
@@ -955,9 +946,9 @@ footer {
 @media only screen and (max-width : 992px) {
 
     #lead {
-        height: auto;
-        min-height: auto;
-        max-height: auto;
+        // height: auto;
+        // min-height: auto;
+        // max-height: auto;
         padding: 100px 15px;
     }
 
