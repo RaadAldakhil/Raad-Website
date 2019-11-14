@@ -298,10 +298,8 @@ footer {
         color: $text;
     }
 }
-
 .social {
     text-align: center;
-
     ul {
         margin: 5px 0 0 0;
         padding: 0;
@@ -400,7 +398,7 @@ footer {
     text-align: center;
 
     h1, h2 {
-        margin: 0;
+        margin: 20px;
     }
 
     h1 {
@@ -416,7 +414,6 @@ footer {
         color: lighten($base-color, 25%);
         font-weight: 500;
         font-size: 2.25em;
-        margin-bottom: 15px;
     }
 }
 
@@ -949,7 +946,7 @@ footer {
         // height: auto;
         // min-height: auto;
         // max-height: auto;
-        padding: 100px 15px;
+        padding: 50px 15px;
     }
 
     #lead-content {
