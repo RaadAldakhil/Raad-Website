@@ -411,7 +411,7 @@ footer {
     }
 
     h2 {
-        color: lighten($text, 25%);
+        color: $text;
         font-weight: 500;
         font-size: 2.25em;
     }
