@@ -45,7 +45,7 @@ $background-alt: #f2f2f5;
 $border: #dcd9d9;
 
 // Define text colors
-$heading: #374054;
+$heading: #fff;
 $text: #74808a;
 
 /*
@@ -396,7 +396,9 @@ footer {
     left: 50%;
     transform: translate(-50%, -50%);
     text-align: center;
-
+    @media only screen and (max-width: 415px) {
+        margin-top: 66.66%;
+    }
     h1, h2 {
         margin: 10px;
     }
