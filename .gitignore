@@ -115,3 +115,6 @@ typings/
 
 # DynamoDB Local files
 .dynamodb/
+
+#Setting.json updates
+settings.json
