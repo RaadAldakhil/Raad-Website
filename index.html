@@ -1,60 +1,43 @@
 <!DOCTYPE html>
-<html class="no-js" lang="en">
-
+<html lang="en">
 <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Raad Aldakhil</title>
-	<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
-	<link rel="icon" href="favicon.ico" type="image/x-icon">
-    <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700,900" rel="stylesheet">
-    <link rel="stylesheet" href="libs/font-awesome/css/font-awesome.min.css">
-    <link href="css/bootstrap.min.css" rel="stylesheet">
-    <link href="css/styles.css" rel="stylesheet">
-    <!-- <link href="http://thomasf.github.io/solarized-css/solarized-light.min.css" rel="stylesheet"></link> -->
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-122258424-1"></script>
-    <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <link rel="shortcut icon" href="./favicon.ico" />
 
-    gtag('config', 'UA-122258424-1');
-    </script>
+  <!-- StyleSheets -->
+  <link href="https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="./index.css">
+
 </head>
-
 <body>
-    <div id="lead">
-        <div id="lead-content">
-            <h1>Raad Aldakhil</h1>
-            <h2>Software Developer</h2>
-            <a href="RaadAldakhilCV.pdf" class="btn-rounded-white">Download Resume</a>
-            <footer>
-                <div class="container">
-                    <div class="row">
-                        <div class="col-sm-5"></div>
-                        <div class="col-sm-2 social">
-                            <ul>
-                                <li>
-                                    <a href="https://github.com/raadaldakhil" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a>
-                                </li>
-                                <li>
-                                    <a href="https://linkedin.com/in/raadaldakhil" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
-                                </li>
-                            </ul>
-                        </div>
-                        <div class="col-sm-5"></div>
-                    </div>
-                </div>
-            </footer>
-            <!-- End footer -->
-        </div>
+  <div id="main" class="relative h-screen border-b-2 lg:grid lg:grid-cols-2 lg:gap-4">
+    <!-- CSS: right sight border as line seperator 
+      - Phone top - down
+      - Lap right left.
+    -->
+    <div id="left" class="left lg:my-0 my-20 ">
+      <div class="imgBorder border-r-2">
+        <img id='img' src="" alt="" class="img m-auto w-64 main-image rounded-lg" >
+      </div>
+    </div>
+
+    <!-- Main - Contents -->
+    <div id="contents" class="m-auto px-4 lg:my-20 child">
+      <div id="name" class="text-center lg:text-left text-6xl"></div>
+      <div id="role" class="text-center lg:text-left text-3xl"></div>
+      <div id="connects" class="text-center lg:text-left text-3xl my-4">
         
-   
+      </div>
+      <div id="links" class="text-center lg:text-left"></div>
+      <a target="_top" id="mail" class="block text-center lg:text-left text-sm my-2"></a>
+    </div>
+  </div>
 
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-    <script src="js/scripts.min.js"></script>
+  <!-- <ion-icon name="heart"></ion-icon> -->
+  <script src="https://unpkg.com/ionicons@5.0.0/dist/ionicons.js"></script>
+  <script src="./data.js"></script>
+  <script src="./script.js"></script>
 </body>
-
 </html>
