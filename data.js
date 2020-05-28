@@ -33,7 +33,7 @@ const main = {
     {
       name: 'Mail',
       iconName: 'mail-outline',
-      link: `mailto:${'aldakhil95@gmail.com'}?Subject=Hello%20again`
+      link: `mailto:${'aldakhrf@gmail.com'}?Subject=Hello%20again`
     }
   ],
   links: [
