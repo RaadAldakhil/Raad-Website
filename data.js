@@ -1,6 +1,6 @@
 const main = {
   name: 'Ra\'ad  Aldakhil',
-  mail: 'aldakhil95@gmail.com',
+  mail: 'aldakhrf@gmail.com',
   img: './01.jpg',
   role: ['IT | Dev | Photographer'],
   // Refer https://ionicons.com/ and put the icon name inside iconName key
