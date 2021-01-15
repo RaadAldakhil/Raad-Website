@@ -1,6 +1,6 @@
 const main = {
   name: 'Ra\'ad  Aldakhil',
-  mail: 'aldakhrf@gmail.com',
+  mail: 'aldakhil95@gmail.com',
   img: './01.jpg',
   role: ['IT | Dev | Photographer'],
   // Refer https://ionicons.com/ and put the icon name inside iconName key
@@ -33,7 +33,7 @@ const main = {
     {
       name: 'Mail',
       iconName: 'mail-outline',
-      link: `mailto:${'aldakhrf@gmail.com'}?Subject=Hi`
+      link: `mailto:${'aldakhil95@gmail.com'}?Subject=Hi`
     }
   ],
   links: [
