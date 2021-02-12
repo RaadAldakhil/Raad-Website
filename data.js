@@ -1,6 +1,6 @@
 const main = {
   name: 'Ra\'ad  Aldakhil',
-  mail: 'raad@raad.it',
+  //mail: 'raad@raad.it', If you can find this, then you passed the minimum requirment to email me without hitting the spam filter :) 
   img: './01.jpg',
   role: ['IT | Software Engineer'],
   // Refer https://ionicons.com/ and put the icon name inside iconName key
@@ -16,25 +16,15 @@ const main = {
       link: 'https://www.linkedin.com/in/RaadAldakhil/'
     },
     {
+      name: 'Twitter',
+      iconName: 'logo-twitter',
+      link: 'https://twitter.com/RaadAldakhil'
+    },
+    {
       name: 'Instagram',
       iconName: 'logo-instagram',
       link: 'https://www.instagram.com/raadaldakh/'
     },
-    {
-      name: 'Twitter',
-      iconName: 'logo-twitter',
-      link: 'https://twitter.com/RaadAldakhil'
-    }, 
-    {
-      name: 'Spotify',
-      iconName: 'musical-notes',
-      link: 'https://open.spotify.com/user/aldakhil95?si=v1BBl4U5Qq2sT3o09UAslA'
-    },
-    {
-      name: 'Mail',
-      iconName: 'mail-outline',
-      link: `mailto:${'raad@raad.it'}?Subject=Hi`
-    }
   ],
   links: [
     { name: 'Resume', link: 'RaadAldakhilCV.pdf' },

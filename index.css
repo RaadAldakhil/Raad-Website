@@ -26,9 +26,11 @@
   }
 
   #contact {
-    padding: 50px 15px;
+    padding: 15px 15px;
     background: whitesmoke;
-    text-align: center;
+    text-align: left;
+    border: 2px solid #e2e8f0;
+    border-radius: 25px;
 
     h2 {
         margin: 0 0 15px 0;
@@ -62,7 +64,7 @@
       }
 
       textarea {
-          height: 150px;
+          height: 100px;
           resize: none;
       }
 

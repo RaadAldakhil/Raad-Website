@@ -38,8 +38,6 @@ function assignDOM(dom, value, options) {
 // MAIN
 
 assignDOM(dom.main.name(), main.name);
-assignDOM(dom.main.mail(), main.mail);
-dom.main.mail().href = `mailto:${main.mail}?Subject=Hello%20again`;
 assignDOM(dom.main.img(), main.img, { isImg: true });
 assignDOM(dom.main.role(), main.role);
 // assignDOM(dom.main.links(), main.links)
@@ -56,7 +54,7 @@ assignDOM(dom.main.connects(), connectsDOM);
 // Internal Links
 const getLinks = links =>
   links
-    .map(({ name, link }) => `<a href="${link}" class="text-pink-500">${name}</a>`)
+    .map(({ name, link }) => `<a href="${link}" class="text-black-500">${name}</a>`)
     .map((link, index, links) => index === links.length - 1 ? link: `${link} - `)
     .join('\n');
 assignDOM(dom.main.links(), getLinks(main.links));

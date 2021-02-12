@@ -35,11 +35,21 @@
     <div id="contents" class="m-auto px-4 lg:my-20 child">
       <div id="name" class="text-center lg:text-left text-6xl"></div>
       <div id="role" class="text-center lg:text-left text-3xl"></div>
-      <div id="connects" class="text-center lg:text-left text-3xl my-4">
-        
-      </div>
+      <div id="connects" class="text-center lg:text-left text-3xl my-4"></div>
       <div id="links" class="text-center lg:text-left"></div>
-      <a target="_top" id="mail" class="block text-center lg:text-left text-sm my-2"></a>
+      <div id="contact">
+        <h2>Get in Touch</h2>
+        <div id="contact-form">
+            <form method="POST" action="https://formspree.io/raad@raad.it">
+                <input type="hidden" name="_subject" value="Contact request from personal website" />
+                <input type="email" name="_replyto" placeholder="Your email" required><br>
+                <textarea name="message" placeholder="Your message" required></textarea>
+                <button type="submit">Send</button>
+            </form>
+        </div>
+        <!-- End #contact-form -->
+    </div>
+    <!-- End #contact --> 
     </div>
   </div>
 
@@ -48,18 +58,6 @@
   <script src="./data.js"></script>
   <script src="./script.js"></script>
 
-   <div id="contact">
-        <h2>Get in Touch</h2>
-        <div id="contact-form">
-            <form method="POST" action="https://formspree.io/aldakhil95@gmail.com">
-                <input type="hidden" name="_subject" value="Contact request from personal website" />
-                <input type="email" name="_replyto" placeholder="Your email" required>
-                <textarea name="message" placeholder="Your message" required></textarea>
-                <button type="submit">Send</button>
-            </form>
-        </div>
-        <!-- End #contact-form -->
-    </div>
-    <!-- End #contact --> 
+
 </body>
 </html>
