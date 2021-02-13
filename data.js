@@ -1,6 +1,6 @@
 const main = {
   name: 'Ra\'ad  Aldakhil',
-  //mail: 'raad@raad.it', If you can find this, then you passed the minimum requirment to email me without hitting the spam filter :) 
+  //mail: 'me@raad.it', If you can find this, then you passed the minimum requirment to email me without hitting the spam filter :) 
   img: './01.jpg',
   role: ['IT | Software Engineer'],
   // Refer https://ionicons.com/ and put the icon name inside iconName key
