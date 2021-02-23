@@ -25,6 +25,10 @@
     transform: translateY(-50%);
   }
 
+  #main .links {
+    color: pink;
+  }
+
   #contact {
     padding: 15px 15px;
     background: whitesmoke;
