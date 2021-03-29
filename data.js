@@ -28,6 +28,6 @@ const main = {
   ],
   links: [
     { name: 'Resume', link: 'RaadAldakhilCV.pdf' },
-    { name: 'Photos', link: 'https://www.instagram.com/raadaldakh/' }
+//    { name: 'Photos', link: 'https://www.instagram.com/raadaldakh/' }
   ]
 };
