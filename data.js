@@ -23,7 +23,7 @@ const main = {
     {
       name: 'Instagram',
       iconName: 'logo-instagram',
-      link: 'https://www.instagram.com/raadaldakh/'
+      link: 'https://www.instagram.com/raad.aldakhil/'
     },
   ],
   links: [
