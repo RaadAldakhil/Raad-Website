@@ -20,11 +20,11 @@ const main = {
       iconName: 'logo-twitter',
       link: 'https://twitter.com/RaadAldakhil'
     },
-    {
-      name: 'Instagram',
-      iconName: 'logo-instagram',
-      link: 'https://www.instagram.com/raad.aldakhil/'
-    },
+    //{
+    //  name: 'Instagram',
+    //  iconName: 'logo-instagram',
+    //  link: 'https://www.instagram.com/raad.aldakhil/'
+    //},
   ],
   links: [
     { name: 'Resume', link: 'RaadAldakhilCV.pdf' },
