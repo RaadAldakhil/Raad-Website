@@ -27,6 +27,7 @@ const main = {
     //},
   ],
   links: [
+    { name: 'Blog', link: 'https://blog.raad.it/' },
     { name: 'Resume', link: 'RaadAldakhilCV.pdf' },
 //    { name: 'Photos', link: 'https://www.instagram.com/raadaldakh/' }
   ]
