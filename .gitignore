@@ -117,5 +117,8 @@ typings/
 # DynamoDB Local files
 .dynamodb/
 
+# VSCode Directory
+.vscode/
+
 #Setting.json updates
 settings.json
