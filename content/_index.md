@@ -10,4 +10,4 @@ By day, I am a Software Engineer working in IT slowly automating tasks, processe
 
 By night, I dabble in game dev and tinkering on my home lab.
 
-![Image of myself, Ra'ad Aldakhil](../images/me.png) ![Image of my homelab](../images/homelab.png)
+![Image of myself, Ra'ad Aldakhil](../images/me.avif) ![Image of my homelab](../images/homelab.avif)
