@@ -65,3 +65,7 @@ ignoreErrors = ["error-disable-taxonomy"]
     name = "LinkedIn"
     icon = "fa-linkedin"
     url = "https://linkedin.com/in/raadaldakhil"
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
