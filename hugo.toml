@@ -65,7 +65,11 @@ ignoreErrors = ["error-disable-taxonomy"]
     name = "LinkedIn"
     icon = "fa-linkedin"
     url = "https://linkedin.com/in/raadaldakhil"
-
+    
+  [[params.social]]
+    name = "itch.io"
+    icon = "fa-itch-io"
+    url = "https://raadaldakhil.itch.io/"
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
