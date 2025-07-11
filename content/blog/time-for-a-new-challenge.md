@@ -25,131 +25,131 @@ I hope, if anything, that by reading this you feel inspired to follow this chall
 --- 
 
 List of Game Jam Themes:
-- [] Forking, branching, cloning, pushing, pulling
-- [] Change
-- [] “The game has changed” 
-- [] Hacking, modding and/or augmenting
-- [] Throwback
-- [] Hybrid
-- [] Leaps and bounds
-- [] MOONSHOT
-- [] BUG
-- [] Cliché
-- [] SCALE
-- [] Retro Remix
-- [] Psychological Horror
-- [] Sacrifice is strength
-- [] Nothing Is Explained
-- [] UNUSUAL MAGIC!!!
-- [] Against the Rules
-- [] Do No Harm
-- [] It’s Spreading
-- [] 2-Bit
-- [] You Are The Weapon
-- [] Shadows and Alchemy
-- [] Spooky adventure
-- [] Sweet supernatural
-- [] Halloween fest
-- [] Día de Los Muertos
-- [] All Saints'
-- [] All Souls' Eve
-- [] Nothing can go wrong…
-- [] Calm before the storm
-- [] What’s behind the door?
-- [] Diving Deeper
-- [] An END is a new BEGINNING
-- [] You’re not alone
-- [] It is NOT real
-- [] Let there be chaos
-- [] Stronger together
-- [] REWIND
-- [] Holes
-- [] Love is blind
-- [] Light
-- [] Built to Scale
-- [] Roles Reversed
-- [] Roll of the Dice
-- [] Joined Together
-- [] Out of Control
-- [] Only One
-- [] GENRE, but you can’t MECHANIC
-- [] Downwell’s Dual Purpose Design
-- [] As long as we have each other, we will never run out of problems
-- [] Deception
-- [] Extinction
-- [] An image of “Ouroboros”
-- [] The sound of a Heartbeat
-- [] We don’t see things as they are, we see them as we are
-- [] What do we do now?
-- [] Ritual
-- [] Waves
-- [] Transmission
-- [] What home means to you
-- [] Repair
-- [] Lost and found
-- [] Duality
-- [] Roots
-- [] Make me laugh
-- [] Indirect interaction
-- [] Guardian
-- [] N/A
-- [] Construction/destruction (sheep)
-- [] Preparation – Set it up, let it go
-- [] Infection
-- [] Random
-- [] Light and darkness
-- [] Growth
-- [] Swarms
-- [] Moon/anti-text
-- [] Build the level you play
-- [] Chain reaction
-- [] Weird/unexpected/surprise
-- [] Minimalist
-- [] The tower (owls)
-- [] Roads
-- [] Advancing wall of doom
-- [] Caverns
-- [] Exploration
-- [] Islands
-- [] Enemies as weapons
-- [] Discovery
-- [] It's dangerous to go alone! Take this!
-- [] Escape
-- [] Alone (kitten challenge)
-- [] Tiny world
-- [] Evolution
-- [] You are the villain (goat)
-- [] Minimalism (potato)
-- [] 10 seconds
-- [] You only get one
-- [] Beneath the surface
-- [] Connected Worlds
-- [] Entire Game on One Screen
-- [] An Unconventional Weapon
-- [] You are the Monster
-- [] Growing/two button controls
-- [] Shapeshift
-- [] Ancient Technology
-- [] One Room
-- [] A Small World
-- [] Running out of Power
-- [] The more you have, the worse it is
-- [] Combine two incompatible genres
-- [] Running out of space
-- [] Sacrifices must be made
-- [] Your life is currency
-- [] Start with nothing
-- [] Keep it alive
-- [] Stuck in a loop
-- [] Deeper and Deeper
-- [] Unstable
-- [] Delay the inevitable
-- [] Every 10 seconds
-- [] Harvest
-- [] Delivery
-- [] Limited space
-- [] Summoning
-- [] Tiny Creatures
-- [] Depths
+- [ ] Forking, branching, cloning, pushing, pulling
+- [ ] Change
+- [ ] “The game has changed” 
+- [ ] Hacking, modding and/or augmenting
+- [ ] Throwback
+- [ ] Hybrid
+- [ ] Leaps and bounds
+- [ ] MOONSHOT
+- [ ] BUG
+- [ ] Cliché
+- [ ] SCALE
+- [ ] Retro Remix
+- [ ] Psychological Horror
+- [ ] Sacrifice is strength
+- [ ] Nothing Is Explained
+- [ ] UNUSUAL MAGIC!!!
+- [ ] Against the Rules
+- [ ] Do No Harm
+- [ ] It’s Spreading
+- [ ] 2-Bit
+- [ ] You Are The Weapon
+- [ ] Shadows and Alchemy
+- [ ] Spooky adventure
+- [ ] Sweet supernatural
+- [ ] Halloween fest
+- [ ] Día de Los Muertos
+- [ ] All Saints'
+- [ ] All Souls' Eve
+- [ ] Nothing can go wrong…
+- [ ] Calm before the storm
+- [ ] What’s behind the door?
+- [ ] Diving Deeper
+- [ ] An END is a new BEGINNING
+- [ ] You’re not alone
+- [ ] It is NOT real
+- [ ] Let there be chaos
+- [ ] Stronger together
+- [ ] REWIND
+- [ ] Holes
+- [ ] Love is blind
+- [ ] Light
+- [ ] Built to Scale
+- [ ] Roles Reversed
+- [ ] Roll of the Dice
+- [ ] Joined Together
+- [ ] Out of Control
+- [ ] Only One
+- [ ] GENRE, but you can’t MECHANIC
+- [ ] Downwell’s Dual Purpose Design
+- [ ] As long as we have each other, we will never run out of problems
+- [ ] Deception
+- [ ] Extinction
+- [ ] An image of “Ouroboros”
+- [ ] The sound of a Heartbeat
+- [ ] We don’t see things as they are, we see them as we are
+- [ ] What do we do now?
+- [ ] Ritual
+- [ ] Waves
+- [ ] Transmission
+- [ ] What home means to you
+- [ ] Repair
+- [ ] Lost and found
+- [ ] Duality
+- [ ] Roots
+- [ ] Make me laugh
+- [ ] Indirect interaction
+- [ ] Guardian
+- [ ] N/A
+- [ ] Construction/destruction (sheep)
+- [ ] Preparation – Set it up, let it go
+- [ ] Infection
+- [ ] Random
+- [ ] Light and darkness
+- [ ] Growth
+- [ ] Swarms
+- [ ] Moon/anti-text
+- [ ] Build the level you play
+- [ ] Chain reaction
+- [ ] Weird/unexpected/surprise
+- [ ] Minimalist
+- [ ] The tower (owls)
+- [ ] Roads
+- [ ] Advancing wall of doom
+- [ ] Caverns
+- [ ] Exploration
+- [ ] Islands
+- [ ] Enemies as weapons
+- [ ] Discovery
+- [ ] It's dangerous to go alone! Take this!
+- [ ] Escape
+- [ ] Alone (kitten challenge)
+- [ ] Tiny world
+- [ ] Evolution
+- [ ] You are the villain (goat)
+- [ ] Minimalism (potato)
+- [ ] 10 seconds
+- [ ] You only get one
+- [ ] Beneath the surface
+- [ ] Connected Worlds
+- [ ] Entire Game on One Screen
+- [ ] An Unconventional Weapon
+- [ ] You are the Monster
+- [ ] Growing/two button controls
+- [ ] Shapeshift
+- [ ] Ancient Technology
+- [ ] One Room
+- [ ] A Small World
+- [ ] Running out of Power
+- [ ] The more you have, the worse it is
+- [ ] Combine two incompatible genres
+- [ ] Running out of space
+- [ ] Sacrifices must be made
+- [ ] Your life is currency
+- [ ] Start with nothing
+- [ ] Keep it alive
+- [ ] Stuck in a loop
+- [ ] Deeper and Deeper
+- [ ] Unstable
+- [ ] Delay the inevitable
+- [ ] Every 10 seconds
+- [ ] Harvest
+- [ ] Delivery
+- [ ] Limited space
+- [ ] Summoning
+- [ ] Tiny Creatures
+- [ ] Depths
 
 (Collected from these game jams: Ludum Dare, Global Game Jam, GMTK Game Jam, Brackeys Game Jam, Ectocomp, Pirate Software Game Jam, Game Off)
